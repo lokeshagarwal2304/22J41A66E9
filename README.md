@@ -88,7 +88,10 @@ localStorage.setItem("access_token", "<TOKEN>")
 ---
 
 ## ⚙️ Local Development
-
+Direct Clone:
+```
+npx shadcn@latest add "https://v0.dev/chat/b/b_Tm6hpADRmnL?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..9O9BR1viYE73ffBh.R6peNZRy7-75se-IilnS1zOeKIf3MtS18xyaW7XCXlsZQBNoNozaIwXKpJI.mAfiapphXghy4z5lNC17LQ"
+```
 ```bash
 git clone https://github.com/lokeshagarwal2304/smarturlx.git
 cd smarturlx
