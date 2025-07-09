@@ -16,6 +16,17 @@
 * 🤖 A helpful chatbot for user guidance
 
 ---
+#Desktop View
+
+![image](https://github.com/user-attachments/assets/1c7f3b3e-5529-4202-afa1-6741d9592192)
+
+---
+#MobileView
+
+![image](https://github.com/user-attachments/assets/0ad2b2ee-3c00-48ce-b21c-db8c2ed95b0a)
+
+---
+---
 
 ## 🚀 Live Demo
 
